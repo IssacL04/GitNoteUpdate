@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "21aacfc720e26f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b2ae3ababb32797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd64616b6b2bd9e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06001b620fbc0ec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "05cbad3cd354eed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc006987f3b9cc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "808fc4bb56996c19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "225d0a62325122ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ad4036694158ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd5b0e1d17ddd77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f89a82caf6b0fc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "468af56e26bd179f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5be27ef23f1c189c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e94a64464c3acc17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf"
+              }
+            }
+          },
+          {
+            "id": "4e68d4d845377541",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "cd64616b6b2bd9e4",
+  "lastOpenFiles": [
+    "Theory Study/FL/Project from Chai/基于噪声特征的抗鲁棒ai生成内容取证平台.pdf",
+    "Tech/Web Penetration/CSRF/CSRF.md",
+    "GitNoteUpdate/LICENSE",
+    "GitNoteUpdate",
+    "Tech/Web Penetration/web全.pdf",
+    "Curricular/网管会/NU meeting 1.md",
+    "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
+    "Theory Study/FL/论文/Finished/联邦学习安全与隐私保护研究综述_周俊.pdf",
+    "Theory Study/FL/插图/Parameters(Weight).png",
+    "Theory Study/FL/插图/随机选取超参数.png",
+    "Theory Study/FL/笔记/note.md",
+    "Theory Study/FL/论文/Unfinished/差分隐私数学原理.pdf",
+    "Theory Study/FL/论文/TrustfulFL/related works V2.md",
+    "Theory Study/FL/论文/TrustfulFL/related works V3.md",
+    "Theory Study/FL/论文/TrustfulFL/related works V1.md",
+    "Theory Study/FL/论文/Unfinished/VerifyNet_Secure_and_Verifiable_Federated_Learning.pdf",
+    "Theory Study/FL/论文/Unfinished/ON THE CONVERGENCE OF FEDAVG ON NON-IID.pdf",
+    "Theory Study/FL/论文/Unfinished/Communication-Efficient Learning of Deep Networks.pdf",
+    "Tech/Matlab/Matlab.md",
+    "Tech/Coding/Python/PythonBackground.md",
+    "Tech/Pwn/PWN.md",
+    "Tech/Server & Net/html.md",
+    "Tech/Server & Net/PHP.md",
+    "Tech/Server & Net/Server_Net plus http protocalV2.md",
+    "Tech/Coding/Python/python script.md",
+    "Tech/NUS SICP(ARCHIVE)/SICP.md",
+    "Tech/NUS SICP(ARCHIVE)/Exercises.md",
+    "Tech/Linux/ArchLinux.md",
+    "Tech/Linux/Linux.md",
+    "Tech/Android/How to Install Kali Nethunter.md",
+    "Match/2024/服创&计设/resource.md",
+    "Tech/Android/Kali Nethunter Tips.md",
+    "Match/2024/服创&计设/viking.jpg",
+    "Match/2024/未命名.md",
+    "Match/2024/viking.jpg",
+    "Match/2024/服创&计设.md",
+    "Tech/Coding/C/Data Structure.md",
+    "Tech/Coding/C/Data Structrue#2.md",
+    "Tech/Coding/C/C.md"
+  ]
+}

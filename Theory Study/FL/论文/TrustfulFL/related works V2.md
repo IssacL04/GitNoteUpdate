@@ -1,0 +1,15 @@
+Federated Learning has become a crucial branch of traditional Machine Learning owing to its low communication cost and high equipment flexibility. [1] In the federated learning protocols, users upload their local data vectors to the aggregation server. After the aggregation process, updated vectors will be distributed to each user for further training. This iterative and decentralized process allows federated learning to leverage insights from various data sources while preserving data privacy and security. [1]It is particularly suitable for scenarios where centralized data collection is challenging or undesirable, such as edge computing, IoT devices, and privacy-sensitive applications.[2] [3] Compared with traditional centralized learning, federated learning minimizes the risk of leaking private information. At the same time, such a protocol also possesses robustness against training failures.
+
+However, collecting a large amount of private information in federated learning can easily lead to security issues. Currently, most widely used federated learning models are faced with severe privacy protection deficiencies. Data poisoning is the malicious manipulation of local datasets by a participant to compromise the integrity of the global model. A dishonest participant may intentionally include misleading or corrupted data during local model training, aiming to weaken the overall security of the model. Such scenarios may consist of Dishonest clients/servers, Byzantine attacks, and Sybil attacks.[4]
+
+Aiming to solve these security issues, our work introduces a model that applies new methods of aggregation verification. The model is based on the theory of additive homomorphic encryption and double-masking. [5] The verification process can deduce one client's confidence level by an index that can evaluate the offset toward clean datasets to avoid training corruption due to malicious clients. A new signature generation algorithm is also imported to identify malicious servers and protect the raw datasets from being stolen.
+
+[1]Li, Li, et al. "A review of applications in federated learning." *Computers & Industrial Engineering* 149 (2020): 106854.
+
+[2] A. Datta, M. Fredrikson, G. Ko, P. Mardziel, and S. Sen, “Use privacy in data-driven systems: Theory and experiments with machine learnt programs,” in *Proc. ACM CCS*, 2017, pp. 1193–1210.
+
+[3]G. Xu, H. Li, S. Liu, K. Yang and X. Lin, "VerifyNet: Secure and Verifiable Federated Learning," in *IEEE Transactions on Information Forensics and Security*, vol. 15, pp. 911-926, 2020, doi: 10.1109/TIFS.2019.2929409.
+
+[4]Mothukuri, Viraaji, et al. "A survey on security and privacy of federated learning." *Future Generation Computer Systems* 115 (2021): 619-640.
+
+[5]Y. Ren, Y. Li, G. Feng and X. Zhang, "Privacy-Enhanced and Verification-Traceable Aggregation for Federated Learning," in *IEEE Internet of Things Journal*, vol. 9, no. 24, pp. 24933-24948, 15 Dec.15, 2022, doi: 10.1109/JIOT.2022.3194930.
