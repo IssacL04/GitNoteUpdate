@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md"
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "8c7b9e7c06a781c1",
   "lastOpenFiles": [
-    "Tech/Web Penetration/CSRF/CSRF.md",
     "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
+    "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
+    "Tech/Web Penetration/CSRF/CSRF.md",
     "Tech/Web Penetration/web全.pdf",
     "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
     "Tech/Web Penetration/TOBECONTINUED.md",
@@ -196,7 +197,6 @@
     "Match/2024/服创&计设/viking.jpg",
     "Match/2024/未命名.md",
     "Match/2024/viking.jpg",
-    "Match/2024/服创&计设.md",
-    "Tech/Coding/C/Data Structure.md"
+    "Match/2024/服创&计设.md"
   ]
 }
