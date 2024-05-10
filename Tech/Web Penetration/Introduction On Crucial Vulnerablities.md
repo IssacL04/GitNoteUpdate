@@ -283,7 +283,8 @@ int main(int argc,char **argv){
 service指向了auth指向的相同地址。因为service调用了strdup()函数：
 ![image.png](https://cdn.jsdelivr.net/gh/IssacL04/IHS@img/img/202405101725587.png)
 调用malloc函数在heap上分配空间，然后通过memcpy对内存进行复制。 **`malloc()`函数存在一个特性是会将新申请分配的空间分配到之前被`free()`回收的buffer区域**。这也就形成了uaf漏洞可以被利用的第二个条件，使用malloc()函数重新分配空间。 这样就可以通过service命令对在login时检测的auth指针对应的buffer数据段进行修改和覆盖。
-
+运行程序进行debugg，发现在auth的位置出现的是admin字符串：
+![image.png](https://cdn.jsdelivr.net/gh/IssacL04/IHS@img/img/202405101806347.png)
 
 ### 如何防御UAF漏洞
 
