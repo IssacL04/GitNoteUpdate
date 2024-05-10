@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Web Penetration/CSRF/CSRF.md",
+                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Web Penetration/CSRF/CSRF.md",
+                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Web Penetration/CSRF/CSRF.md",
+                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Web Penetration/CSRF/CSRF.md"
+                "file": "Tech/Web Penetration/File Inclusion&Upload/File Upload&Inclusion.md"
               }
             }
           },
@@ -155,13 +155,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "8bc006987f3b9cc5",
+  "active": "8c7b9e7c06a781c1",
   "lastOpenFiles": [
+    "Tech/Web Penetration/CSRF/CSRF.md",
     "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
     "Tech/Web Penetration/web全.pdf",
     "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
     "Tech/Web Penetration/TOBECONTINUED.md",
-    "Tech/Web Penetration/CSRF/CSRF.md",
     "Tech/Pwn/PWN.md",
     "Tech/Web Penetration/Homework1",
     "Tech/Web Penetration/新建文件夹",
