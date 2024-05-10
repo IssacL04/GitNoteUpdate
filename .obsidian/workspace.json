@@ -11,9 +11,11 @@
             "id": "8c7b9e7c06a781c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf"
+                "file": "Tech/Web Penetration/CSRF/CSRF.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
+                "file": "Tech/Web Penetration/CSRF/CSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
+                "file": "Tech/Web Penetration/CSRF/CSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf"
+                "file": "Tech/Web Penetration/CSRF/CSRF.md"
               }
             }
           },
@@ -153,11 +155,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "8c7b9e7c06a781c1",
+  "active": "8bc006987f3b9cc5",
   "lastOpenFiles": [
+    "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
     "Tech/Web Penetration/web全.pdf",
     "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
-    "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
     "Tech/Web Penetration/TOBECONTINUED.md",
     "Tech/Web Penetration/CSRF/CSRF.md",
     "Tech/Pwn/PWN.md",
