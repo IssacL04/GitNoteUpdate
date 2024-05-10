@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2ae3ababb32797",
+        "id": "32e3e08ac242e46d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd64616b6b2bd9e4",
+            "id": "8c7b9e7c06a781c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf"
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "4ad4036694158ad6",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf"
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md"
               }
             }
           },
@@ -136,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,15 +155,22 @@
       "publish:发布更改": false
     }
   },
-  "active": "cd64616b6b2bd9e4",
+  "active": "8bc006987f3b9cc5",
   "lastOpenFiles": [
+    "Tech/Pwn/PWN.md",
+    "Tech/Web Penetration/TOBECONTINUED.md",
+    "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
+    "Tech/Web Penetration/Homework1",
+    "Tech/Web Penetration/新建文件夹",
+    "Pasted image 20240510163926.png",
+    "Pasted image 20240510163550.png",
+    "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
     "Theory Study/FL/Project from Chai/基于噪声特征的抗鲁棒ai生成内容取证平台.pdf",
     "Tech/Web Penetration/CSRF/CSRF.md",
     "GitNoteUpdate/LICENSE",
     "GitNoteUpdate",
     "Tech/Web Penetration/web全.pdf",
     "Curricular/网管会/NU meeting 1.md",
-    "Theory Study/FL/Project from Chai/Style_and_Template_for_Preprints__arXiv__bio_arXi.pdf",
     "Theory Study/FL/论文/Finished/联邦学习安全与隐私保护研究综述_周俊.pdf",
     "Theory Study/FL/插图/Parameters(Weight).png",
     "Theory Study/FL/插图/随机选取超参数.png",
@@ -171,11 +180,8 @@
     "Theory Study/FL/论文/TrustfulFL/related works V3.md",
     "Theory Study/FL/论文/TrustfulFL/related works V1.md",
     "Theory Study/FL/论文/Unfinished/VerifyNet_Secure_and_Verifiable_Federated_Learning.pdf",
-    "Theory Study/FL/论文/Unfinished/ON THE CONVERGENCE OF FEDAVG ON NON-IID.pdf",
-    "Theory Study/FL/论文/Unfinished/Communication-Efficient Learning of Deep Networks.pdf",
     "Tech/Matlab/Matlab.md",
     "Tech/Coding/Python/PythonBackground.md",
-    "Tech/Pwn/PWN.md",
     "Tech/Server & Net/html.md",
     "Tech/Server & Net/PHP.md",
     "Tech/Server & Net/Server_Net plus http protocalV2.md",
@@ -192,7 +198,6 @@
     "Match/2024/viking.jpg",
     "Match/2024/服创&计设.md",
     "Tech/Coding/C/Data Structure.md",
-    "Tech/Coding/C/Data Structrue#2.md",
-    "Tech/Coding/C/C.md"
+    "Tech/Coding/C/Data Structrue#2.md"
   ]
 }
