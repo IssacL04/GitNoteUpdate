@@ -11,11 +11,9 @@
             "id": "8c7b9e7c06a781c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
-                "mode": "source",
-                "source": false
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md"
+                "file": "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf"
               }
             }
           },
@@ -138,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,8 +155,10 @@
   },
   "active": "8c7b9e7c06a781c1",
   "lastOpenFiles": [
-    "Tech/Web Penetration/TOBECONTINUED.md",
+    "Tech/Web Penetration/web全.pdf",
     "Tech/Web Penetration/Introduction On Crucial Vulnerablities.md",
+    "Tech/Web Penetration/Introduction On Crucial Vulnerablities.pdf",
+    "Tech/Web Penetration/TOBECONTINUED.md",
     "Tech/Web Penetration/CSRF/CSRF.md",
     "Tech/Pwn/PWN.md",
     "Tech/Web Penetration/Homework1",
@@ -169,7 +169,6 @@
     "Theory Study/FL/Project from Chai/基于噪声特征的抗鲁棒ai生成内容取证平台.pdf",
     "GitNoteUpdate/LICENSE",
     "GitNoteUpdate",
-    "Tech/Web Penetration/web全.pdf",
     "Curricular/网管会/NU meeting 1.md",
     "Theory Study/FL/论文/Finished/联邦学习安全与隐私保护研究综述_周俊.pdf",
     "Theory Study/FL/插图/Parameters(Weight).png",
@@ -179,7 +178,6 @@
     "Theory Study/FL/论文/TrustfulFL/related works V2.md",
     "Theory Study/FL/论文/TrustfulFL/related works V3.md",
     "Theory Study/FL/论文/TrustfulFL/related works V1.md",
-    "Theory Study/FL/论文/Unfinished/VerifyNet_Secure_and_Verifiable_Federated_Learning.pdf",
     "Tech/Matlab/Matlab.md",
     "Tech/Coding/Python/PythonBackground.md",
     "Tech/Server & Net/html.md",
@@ -197,7 +195,6 @@
     "Match/2024/未命名.md",
     "Match/2024/viking.jpg",
     "Match/2024/服创&计设.md",
-    "Tech/Coding/C/Data Structure.md",
-    "Tech/Coding/C/Data Structrue#2.md"
+    "Tech/Coding/C/Data Structure.md"
   ]
 }
